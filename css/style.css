@@ -8,3 +8,22 @@ p {
   background-color: aqua;
   padding: 20px;
 }
+
+#title {
+  text-align: center;
+}
+
+#img-div {
+  width: 300px;
+  margin: auto;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+#tribute-link {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
